@@ -1,11 +1,8 @@
 # 🧭 Helm Guide for Kubernetes (With Kind Cluster)
 
-Helm = Kubernetes package manager
-
-Think like apt/yum + Dockerhub + CI/CD for Kubernetes apps
-
-
 ### 📌 What is Helm?
+
+Helm = Kubernetes package manager
 
 | Without Helm                | With Helm                        |
 | --------------------------- | -------------------------------- |

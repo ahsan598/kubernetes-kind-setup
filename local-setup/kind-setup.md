@@ -4,7 +4,6 @@ Kind = Kubernetes in Docker → Best for DevOps practice, CI testing & learning
 
 
 ### ⚙️ Prerequisites
-
 | Requirement      | Status                  |
 | ---------------- | ----------------------- |
 | Docker Installed | Required                |
@@ -13,7 +12,7 @@ Kind = Kubernetes in Docker → Best for DevOps practice, CI testing & learning
 
 
 
-### 🔧 Install Steps
+### 🔧 Installtion Steps
 
 **1. Install Kubectl**
 ```sh

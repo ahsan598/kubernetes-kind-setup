@@ -9,21 +9,3 @@ This repository contains step-by-step guides for setting up Kubernetes locally u
 |------|-------------|------|
 | Kubernetes Local Setup using Kind | Create local Kubernetes cluster for DevOps & testing | ➤ [View Guide](/local-setup/kind-setup.md) |
 | Helm Guide for Kubernetes (With Kind Cluster) | Install & use Helm with charts on Kind | ➤ [View Guide](/local-setup/helm-setup.md) |
-
-
-### 🛠 Prerequisites
-
-| Requirement      | Status                  |
-|------------------|-------------------------|
-| Docker           | Required                |
-| kubectl          | Required                |
-| Kind             | Required for Kubernetes |
-| Helm             | Required for charts     |
-
-
-###  🚀 Get Started
-```sh
-cd kind-setup
-
-cd helm-setup
-```
