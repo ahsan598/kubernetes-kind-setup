@@ -1,4 +1,4 @@
-# # Kubernetes Client Tools Upgrade Guide (Kind | Helm | Kubectl)
+# Kubernetes Client Tools Upgrade Guide (Kind | Helm | Kubectl)
 
 This guide helps you update your local Kubernetes toolchain to the latest versions.
 
@@ -15,7 +15,7 @@ kind version
 
 **2. Update Helm**
 ```sh
-curl -fsSL https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-4 | bash
+curl -fsSL https://raw.githubuserconcom/helm/helm/main/scripts/get-helm-4 | bash
 
 helm version
 ```
